@@ -1,0 +1,41 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.akash13singh.me/
+title: Akash Singh
+email: aakashsingh@gmail.com
+author: Akash Sing
+description: > # "Akash Singh's Personal Page"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Build sitemap
+gems:
+  - jekyll-sitemap
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+#  - icon: medium
+#    title: blog
+#    url: https://medium.com/thoughts-and-notes
+  - icon: envelope-o
+    title: email
+    url: mailto:aakashsingh@gmail.com
+  - icon: github
+    title: github
+    url: https://github.com/akash13singh
+  - icon: linkedin
+    title: linkedin
+    url: https://www.linkedin.com/in/akash13singh
+  - icon: file-pdf-o
+    title: resume
+    url: http://www.akash13singh.me/rsc/resume.pdf
