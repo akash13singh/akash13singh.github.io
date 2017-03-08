@@ -3,4 +3,4 @@
 
 This repository contains the code for my personal website.
 
-![preview](https://github.com/WesleyyC/wesleyyc.github.io/raw/master/img/screen-2.png)
+![preview](https://github.com/akash13singh/akash13singh.github.io/blob/master/img/akash13singh.me.png)
