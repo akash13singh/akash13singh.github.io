@@ -6,12 +6,12 @@ title: "Breaking Captchas"
 description: |
 ---
 
-* **Build a deep learning model to learn and break captchas**.
+* **Build a CNN based deep learning model to learn and break captchas**.
 
-* The [project](https://github.com/tharidu/breakingcaptcha) done as part of deep learning course with Tharidu and Dominik.
+* The [project](https://github.com/tharidu/breakingcaptcha) was done as part of deep learning course at KTH with Tharidu and Dominik.
 
-* Trained the model on a dataset of 200,000 images on Nvidia Tesla K80 GPU from AWS.
+* Trained the model on a dataset of 200,000 captchas on Nvidia Tesla K80 GPU an AWS EC2 instance.
 
 * Tensorflow was used as the deep learning library.
 
-* The model achieved an accuracy of 99%.
+* The model achieved an accuracy of ~98%.
