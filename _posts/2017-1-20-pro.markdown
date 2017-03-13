@@ -1,0 +1,13 @@
+---
+layout: default
+img: CDL_NN.png
+category: Projects
+title: "Collaborative Deep Learning"
+description: |
+---
+
+* **Deep learning based Collaborative Filtering for Recommendation Systems**
+
+* [Project](https://github.com/akash13singh/mxnet-for-cdl) used a deep autoencoder to learn features.
+
+* MXNet was used as the deep learning library.
