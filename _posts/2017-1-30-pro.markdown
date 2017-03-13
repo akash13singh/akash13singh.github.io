@@ -1,0 +1,16 @@
+---
+layout: default
+img: triest.png
+category: Projects
+title: "Triest: TRIangle Estimation from STreams"
+description: |
+---
+
+* **Counting Global and Local Triangles in Streaming Graphs**.
+
+* The [project](https://github.com/akash13singh/Triest/) was done as part of Data Mining course at KTH. 
+
+
+* Implementation of [paper](http://www.kdd.org/kdd2016/subtopic/view/triest-counting-local-and-global-triangles-in-fully-dynamic-streams-with-fi).
+
+* Triangle count is commonly used in network analysis, random graph models, and real world applications like link-recommendation, spam detection etc.

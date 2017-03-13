@@ -1,0 +1,16 @@
+---
+layout: default
+img: webir_poster.png
+category: Projects
+title: "Opinion Mining & Sentiment Analysis"
+description: |
+---
+
+* **Opinion Mining & Sentiment Analysis of Laptop Reviews**.
+
+* The project was done as part of Web IR course at TU/e.
+
+
+* A system for opinion mining, sentiment analysis, searching and clustering of amazon laptop reviews.
+
+* I was mainly responsible for building the search engine and clustering system for the project.

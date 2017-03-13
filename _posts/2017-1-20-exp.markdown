@@ -1,0 +1,15 @@
+---
+layout: default
+img: 99.jpg
+category: Experiences
+title: Lead Engineer
+description: |
+---
+
+* Part of [99acres](http://www.99acres.com/) search and analytics team. 99acres is the leading real estate search portal in India and part of the [Info Edge](http://www.infoedge.in/) group.
+
+<!--* Developed the search backend using Apache Solr. -->
+
+* Built a dynamic search ranking framework to rank results based on clicks and relevance.
+
+* Worked with Java, R, mongodb, Apache Solr. 

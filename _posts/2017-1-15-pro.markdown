@@ -6,9 +6,9 @@ title: "Breaking Captchas"
 description: |
 ---
 
-* **Build a deep learning model to learn and break captchas**
+* **Build a deep learning model to learn and break captchas**.
 
-* [Project](https://github.com/tharidu/breakingcaptcha) done as part of deep learning course with Tharidu and Dominik.
+* The [project](https://github.com/tharidu/breakingcaptcha) done as part of deep learning course with Tharidu and Dominik.
 
 * Trained the model on a dataset of 200,000 images on Nvidia Tesla K80 GPU from AWS.
 

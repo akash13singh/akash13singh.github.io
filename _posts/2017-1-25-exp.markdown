@@ -1,0 +1,11 @@
+---
+layout: default
+img: ORCL.jpeg
+category: Experiences
+title: Applications Engineer
+description: |
+---
+
+* Part of [Oracle FUSION Middleware](https://www.oracle.com/middleware/index.html) development team. Oracle Fusion is Oracle's cloud based suite of enterprise solutions.
+
+* Worked on Fusion Product Information Management tool which is part of from the Fusion Supply Chain Management family. PIM's customers included Boeing, Posco, GE.
