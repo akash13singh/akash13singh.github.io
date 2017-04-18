@@ -12,3 +12,5 @@ description: |
 
 
 * MXNet was used as the deep learning library.
+
+* Reproduced results of the CDL paper and compared it to other approaches.

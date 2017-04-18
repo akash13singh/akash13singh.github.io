@@ -6,11 +6,11 @@ title: "Dutch Asylum Seeker"
 description: |
 ---
 
-* **Visualizing Asylum Requests to Netherlands from 2007-2015**.
+* **[Visualizing Asylum Requests to Netherlands from 2007-2015](http://www.akash13singh.me/dutch-asylum-seeker/)**.
 
 * The [project](https://github.com/heytitle/dutch-asylum-seeker) was done as part of Visualization course at TU/e, with Pat. 
 
 
-* Developed an interactive D3.js website Live [website](http://www.akash13singh.me/dutch-asylum-seeker/).
+* Developed an interactive D3.js website (live [website](http://www.akash13singh.me/dutch-asylum-seeker/)).
 
 * Intuitive & iteractive graphs and maps to understand asylum request data.
