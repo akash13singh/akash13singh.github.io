@@ -10,6 +10,10 @@ description: |
 
 <!--* Developed the search backend using Apache Solr. -->
 
-* Built a dynamic search ranking framework to rank results based on clicks and relevance.
+* Built a dynamic search ranking framework to rank search results by balancing listing relevance, agent lead demand and paid subscriptions.
+
+* Developed the search backend using Apache Solr, and named entity recogniton. 
+
+* Executed machine learning projects including click-through rate prediction, and spam classification.
 
 * Worked with Java, R, mongodb, Apache Solr. 
