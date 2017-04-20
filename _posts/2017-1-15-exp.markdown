@@ -2,12 +2,12 @@
 layout: default
 img: eric.jpg
 category: Experiences
-title: Student Resarcher
+title: Resarcher
 description: |
 ---
 
-* Doing master thesis with the Machine Learning Group at Ericsson Research, Stockholm.
+* Doing master thesis with the Machine Learning Group at Ericsson Research, Stockholm. Thesis is on "Deep learning for Anomaly Detection on Temporal Data".
 
-* Working on deep learning based anomaly detection algorithms.
+* Part of anotther project on predictive maintenance for manufacturing production line.
 
-* Developing techniques for high dimensional time-series data.
+* Working with LSTMs, autoencoder, Gaussian Process and Bayesian Optimization.
