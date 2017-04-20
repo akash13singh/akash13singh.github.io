@@ -8,6 +8,6 @@ description: |
 
 * Doing master thesis with the Machine Learning Group at Ericsson Research, Stockholm. Thesis is on "Deep learning for Anomaly Detection on Temporal Data".
 
-* Part of anotther project on predictive maintenance for manufacturing production line.
+* Part of another project on anomaly detection and predictive maintenance using sensor data from manufacturing production line.
 
-* Working with LSTMs, autoencoder, Gaussian Process and Bayesian Optimization.
+* Using LSTMs, autoencoder, Gaussian Process and Bayesian optimization.
